@@ -9,7 +9,7 @@
 1. Clone link or download
 - clone link:
 ```bash
-git clone https://github.com/thanhson0514/Tick-tac-toe-with-algorithm-minimax
+git clone https://github.com/thanhson0514/Tick-tac-toe-with-algorithm-minimax.git
 ```
 2. Run live-server
 3. Finally, Open browser and play a game
